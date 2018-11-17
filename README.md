@@ -1,2 +1,2 @@
-# openbor-script-string
+# DC String
 String handling functions and wrappers.
